@@ -39,20 +39,20 @@ git push -u origin main
 
 
 
-### Further Resources
+## Further Resources
 - A simple to follow [Markdown tutorial](https://commonmark.org/help/tutorial/index.html)
 - [Introducing Git and GitHub](https://www.educative.io/blog/git-github-tutorial-beginners?utm_campaign=Pmax_feb25&utm_source=google&utm_medium=ppc&utm_content=&utm_term=&eid=5082902844932096&utm_term=&utm_campaign=%5BMar+25%5D+Pmax.+-+Coding+Interview+Prep&utm_source=adwords&utm_medium=ppc&hsa_acc=5451446008&hsa_cam=22344713166&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=22354833079&gbraid=0AAAAADfWLuSU88iFAVyErgbRdt7fiuzSH&gclid=Cj0KCQiA8KTNBhD_ARIsAOvp6DI7uxM-Pxah_8S_N5ntCI08Vc8eAwg50MlejBBUQkLznNdv7X-W9_4aAt_UEALw_wcB)
 - [Controlled vs Distributed Version Control Systems](https://www.atlassian.com/blog/software-teams/version-control-centralized-dvcs)
 - [Static vs Dynamic Webpages](https://www.educative.io/answers/what-is-the-difference-between-static-and-dynamic-webpages?utm_campaign=Pmax_feb25&utm_source=google&utm_medium=ppc&utm_content=&utm_term=&eid=5082902844932096&utm_term=&utm_campaign=%5BMar+25%5D+Pmax.+-+Coding+Interview+Prep&utm_source=adwords&utm_medium=ppc&hsa_acc=5451446008&hsa_cam=22344713166&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=22354833079&gbraid=0AAAAADfWLuSU88iFAVyErgbRdt7fiuzSH&gclid=Cj0KCQiA8KTNBhD_ARIsAOvp6DIyIfEVwkT0sYxuyz06GHeqSR-LKeRblY-hZ_vu9rW4BYwyAkMMogoaAp0gEALw_wcB) 
 
-### FAQ
+## FAQ
 **Why is Markdown better than writing raw HTML?**  
 Markdown is a lightweight markup language, which means that it is human readable in its raw form. It's easier to learn than HTML therefore anybody even with little expirience is able to create a Markdown file.  
 
 **I changed the Markdown version of my resume, so why don't I see the changes when I refresh the website in my browser?**  
 Double check to make sure that you are saving those changes and hard refreshing the website. 
 
-### Credits
+## Credits
 I would like to give credit to those who have contributed with this project
 - **Lara:** Reviewed the project
 - **Palak:** Reviewed the project
